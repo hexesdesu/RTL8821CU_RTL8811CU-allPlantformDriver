@@ -6,7 +6,7 @@
 
 > MERCURY UD6S
 
-They have same RTL8811CU chipset.
+They have the same RTL8811CU chipset.
 
 I found some notes to install the driver manually on the Hub, such as https://github.com/whitebatman2/rtl8821CU.
 
